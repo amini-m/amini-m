@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mory!
-- 👀 I’m interested in Biomechanics, Python programming, and machine learning.
+- 👀 I’m interested in AI, ML, GTP, Biomechanics, and Python programming.
 - 🌱 I’m currently learning how to efficiently use dataframes. 
 
 <!---
