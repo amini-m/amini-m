@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Mory!
-- 👀 I’m interested in AI, ML, GTP, Biomechanics, and Python programming.
-- 🌱 I’m currently learning how to efficiently use dataframes. 
+I'm Morteza, co-founder of SciPub+, the knowledge interface for the age of AI. 
 
 <!---
 amini-m/amini-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
